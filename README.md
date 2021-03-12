@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/44139856/110921696-eb574a00-832f-11eb-870e-5aba3da3cb59.gif
+![9d9bd13afce1a798d22ecfd9897730ed](https://user-images.githubusercontent.com/44139856/110921696-eb574a00-832f-11eb-870e-5aba3da3cb59.gif)
+
 
 <!--
 **emresharp/emresharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
